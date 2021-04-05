@@ -53,4 +53,4 @@ func main() {
 
 That's all!
 
-(/example/example.go)[Full example]
+[Full example](/example/example.go)
